@@ -1,6 +1,6 @@
 #pragma once
 
-#define PRODUCT "Fly 60" /* 硬件名称，用于蓝牙显示 */
+#define PRODUCT "fly 60" /* 硬件名称，用于蓝牙显示 */
 #define DEVICE_VER 0x0003 /* 硬件版本 */
 
 #define LED_CAPS 19
